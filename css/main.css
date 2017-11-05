@@ -1,0 +1,95 @@
+/*Jumbotrons*/
+
+.jumbotron {
+	background-size: cover;
+}
+
+.jumbotron h1 {
+	text-align: right;
+	background-color: black;
+	opacity: 0.5;
+}
+
+.jumbotron p {
+	text-align: right;
+	color: white;
+}
+/*About*/
+	/*Table*/
+
+.table-nonfluid {
+	width: auto !impotant;
+}
+
+#about h1 {
+	margin-top: 30px;
+}
+
+
+/*Services*/
+.social {
+  width: 80px;
+  height: 80px;
+ 	margin: auto;
+	padding-top: 10px;
+}
+
+.square:hover {
+	color: deeppink;
+}
+
+
+/*Table*/
+#italic {
+	font-style: italic;
+}
+
+#hour {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+/*Form*/
+#form {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+/*Footer*/
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  clear: both;
+  padding-top: 50px;
+  color: #ccc;
+}
+
+.social-icon {
+  width: 35px;
+  height: 35px;
+  margin: 0 5px;
+}
+
+.social-icon2 {
+  width: 15px;
+  height: 15px;
+  margin: 0 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

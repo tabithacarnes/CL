@@ -9,4 +9,4 @@ Usage Notes
 -This website is a website made by me (Tabitha Carnes) for iTech Connect for my first Code Louisville project.
 -If you download all of the files, the website should run properly. All files are uploaded to Github.
 
-Copyright 2017 Tabitha Carnes
+2017 Tabitha Carnes

@@ -5,3 +5,5 @@ function myFunction() {
 
 /*Carousal*/
 $('.carousel').carousel('pause');
+
+/*Form*/

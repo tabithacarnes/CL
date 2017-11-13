@@ -28,11 +28,9 @@
  	margin: auto;
 	padding-top: 10px;
 }
-
-.square:hover {
+.btn:hover {
 	color: deeppink;
 }
-
 
 /*Table*/
 #italic {
